@@ -18,11 +18,7 @@
             body {
                 font-family: 'Nunito', sans-serif;
             }
-            @media only screen and (max-width: 600px) {
-           body {
-               max-width: 500px;
-              }
-           }
+          
         </style>
     </head>
 <body class="antialiased">
